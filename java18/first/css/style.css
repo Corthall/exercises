@@ -1,0 +1,22 @@
+nav {
+  background-color: rgba(128, 60, 160, 0.7);
+  /* position: fixed; */
+}
+
+.mainNav {
+  position: fixed;
+  height: 30px;
+  width: 100vw;
+}
+
+article {
+  height: 100vh;
+}
+
+#artOne {
+  background-color: rgba(0, 200, 255, 0.7);
+}
+
+#artTwo {
+  background-color: rgb(54, 194, 30);
+}
